@@ -157,7 +157,7 @@ Access the app at: `http://localhost:8501`
 
 ---
 
-## 💻 Technology Stack
+##  Technology Stack
 
 | Category | Technologies |
 |----------|---------------|
@@ -170,7 +170,7 @@ Access the app at: `http://localhost:8501`
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 1. **Customer Characteristics:** Customers who purchase are typically older professionals with higher income
 2. **Purchase Indicators:** 
@@ -182,7 +182,7 @@ Access the app at: `http://localhost:8501`
 
 ---
 
-## 🌐 Web Application Features
+##  Web Application Features
 
 The Streamlit app provides:
 
@@ -194,7 +194,7 @@ The Streamlit app provides:
 
 ---
 
-## 📝 How to Use This Project for Learning
+## How to Use This Project for Learning
 
 1. **Study the Methodology:** Understand the ML workflow step-by-step
 2. **Review the Code:** Learn Python and scikit-learn best practices
@@ -204,7 +204,7 @@ The Streamlit app provides:
 
 ---
 
-## 🤝 Contributing & Feedback
+## Contributing & Feedback
 
 This is a student project for educational purposes. For suggestions or improvements:
 
@@ -214,7 +214,7 @@ This is a student project for educational purposes. For suggestions or improveme
 
 ---
 
-## 📄 License
+## License
 
 This project is provided for educational purposes. Feel free to use it as a reference for your learning.
 
@@ -229,22 +229,7 @@ This project is provided for educational purposes. Feel free to use it as a refe
 
 ---
 
-## 📞 Support & Questions
 
-For questions about this project:
-- Check the documentation in `/docs` folder
-- Review the Jupyter notebook for detailed analysis
-- Check GitHub Issues section
 
----
-
-## 🎓 Educational Value
-
-This project demonstrates:
-- ✅ Professional ML development practices
-- ✅ Proper documentation and organization
-- ✅ End-to-end ML pipeline implementation
-- ✅ Model deployment and web integration
-- ✅ Academic integrity and originality
 
 **Last Updated:** January 13, 2026
