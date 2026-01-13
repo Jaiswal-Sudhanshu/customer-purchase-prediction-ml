@@ -194,30 +194,6 @@ The Streamlit app provides:
 
 ---
 
-## 📚 Documentation Standards
-
-This project maintains high documentation standards:
-
-- ✅ All code is original and well-commented
-- ✅ Docstrings for all functions
-- ✅ Original methodology and analysis
-- ✅ Proper attribution for libraries used
-- ✅ No plagiarism in documentation or code
-
----
-
-## 🔒 Originality Certification
-
-This project contains 100% original code and analysis. All implementation, methodology, and documentation have been created from scratch without copying from external sources.
-
-**Key Original Elements:**
-- Custom data preprocessing pipeline
-- Original EDA methodology with unique visualizations
-- Custom model evaluation framework
-- Student-written documentation
-
----
-
 ## 📝 How to Use This Project for Learning
 
 1. **Study the Methodology:** Understand the ML workflow step-by-step
