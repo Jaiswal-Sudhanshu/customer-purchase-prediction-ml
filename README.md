@@ -8,7 +8,7 @@ This is a comprehensive machine learning project that predicts whether a custome
 
 ---
 
-## 🎯 Academic Context & Learning Objectives
+## Academic Context & Learning Objectives
 
 This project was developed as part of a machine learning curriculum to demonstrate proficiency in:
 
@@ -116,7 +116,7 @@ customer-purchase-prediction-ml/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Python 3.8 or higher
